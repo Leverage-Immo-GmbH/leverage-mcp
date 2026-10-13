@@ -31,7 +31,7 @@ The server tells the client which tools it offers, so this page does not list th
 - **Portfolio and properties.** Read and maintain properties, units, tenancies and loans, and get key figures such as yield, cashflow and financing from the same calculations the app uses.
 - **Property search.** Search listings from the major German property portals, save acquisition profiles and run search agents that keep looking.
 - **Documents.** Upload exposés, leases and other property documents and get their contents back as structured fields.
-- **Deal screening and due diligence.** Screen a listing against an acquisition profile and review a dataroom.
+- **Due diligence.** Have the documents of a property or a dataroom reviewed.
 - **Routines, tasks and contacts.** Schedule recurring work and keep the people and to-dos around a property.
 
 ## Security
